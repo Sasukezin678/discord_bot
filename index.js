@@ -82,9 +82,9 @@ client.on("messageCreate", async (message) => {
     const expirationTime = cooldown.get(message.author.id) + cooldownAmount;
 
     let embedcd = new Discord.MessageEmbed()
-    .setFooter("∙ discord.gg/TralhaCommunity ©")
+    .setFooter("∙ discord.gg/SchoolProject ©")
     .setAuthor({
-      name: `Tralha`,
+      name: `Test`,
       iconURL: config.author})
     .setColor(config.color)
       .setDescription(
@@ -119,7 +119,7 @@ client.on("messageCreate", async (message) => {
 ////STATUS
 client.on("ready", () => {
 
-  let activities = [`» Vendas automáticas.`, `» Tralha Community.`],
+  let activities = [`» Vendas automáticas.`, `» Corvus Community.`],
     i = 0;
   setInterval(
     () =>

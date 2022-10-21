@@ -1,8 +1,8 @@
     {
-    "token": "",
+    "token": "MTAzMzA1NTE0NTU4MTM0NjgxNg.GSBbV9.pnXv9UE0hOCYDjW9sDpc3ZK5kZJn7tB-bERC1o",
     "prefix": ".",
     "accessToken": "APP_USR-7566612935654880-080617-ec88899e9e7117757c667af919bb9768-105944165",
-    "mongo_url": "",
+    "mongo_url": "mongodb+srv://sasuke:sasuke@cluster0.4qwsa.mongodb.net/?retryWrites=true&w=majority",
     "color": "#000000",
     "author": "https://media.discordapp.net/attachments/1000967956920025189/1033055918126026872/45e1f55d2c120aae8750284af04e9bb4.jpg",
     "owner": "397556158878973965",
@@ -11,4 +11,3 @@
     "categoria": "1000967944521662484",
     "logs": "1000968006584770570"
   }
-  
